@@ -5,7 +5,8 @@ covid_summary.csv
 *.db
 *.sqlite
 .env
-.DS_Store
+
+---.DS_Store
 .idea/
 
 ---
