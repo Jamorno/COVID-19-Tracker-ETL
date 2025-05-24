@@ -1,0 +1,9 @@
+__pycache__/
+.venv/
+covid_etl.log
+covid_summary.csv
+*.db
+*.sqlite
+.env
+
+---
